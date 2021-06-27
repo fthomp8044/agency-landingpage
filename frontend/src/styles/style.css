@@ -1,0 +1,39 @@
+.brandHeader {
+  position: relative;
+  right: 40%;
+}
+
+.navlink {
+  color: white;
+  font-family: serif;
+  font-weight: bolder;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.navlink:hover {
+  color: black;
+}
+
+.downArrow {
+  position: fixed;
+  right: 50%;
+  top: 37%;
+}
+
+.homepageTitle {
+  text-align: center;
+  padding-top: 8%;
+  font-family: serif;
+  font-weight: bold;
+  font-size: 6vh;
+  color: white;
+}
+
+body {
+  background-image: url("./images/desktop/image-header.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+/*# sourceMappingURL=style.css.map */
